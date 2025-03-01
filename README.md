@@ -3,7 +3,7 @@
 <!--🔭 I’m currently working on<br />-->
 
 🌱 I’m currently learning next.js<br />
-⚡ Fun fact my first programming language was vb6
+⚡ Fun fact my first programming language was VB6
 
 # 💻 Tech Stack:
 
